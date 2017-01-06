@@ -1,3 +1,10 @@
 node_modules
 bower_components
 /.project
+
+# Local logs
+.npm-debug.log
+npm-debug.log
+
+# Dev tools
+.idea
